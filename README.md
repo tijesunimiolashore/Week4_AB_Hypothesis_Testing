@@ -6,4 +6,4 @@
 
 ### We compared using classical methods and sequential methods with machine learning models for the AB Hypothesis Testing.
 
-### All the metrics + the preprocessing are in the ABHypothesisTesting.ipynb file
+### All the metrics + the preprocessing are in the ABHypothesisTesting_1.ipynb file
